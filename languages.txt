@@ -1,0 +1,46 @@
+english en
+spanish es
+russian ru
+italian it
+german de
+portuguese pt
+polish pl
+czech cs
+danish da
+french fr
+
+        ---More books at https://manybooks.net/language.php
+afrikaans
+albanian
+arabic
+dutch
+basque
+belarusian
+bulgarian
+catalan
+croatian
+estonian
+frisian
+greek
+hebrew
+hungarian
+icelandic
+indonesian
+irish
+kazakh
+latin
+latvian
+lithuanian
+luxembourgish
+macedonian
+malayan
+maltese
+norwegian-bokmal
+romanian
+serbian-cyrillic
+slovak
+slovenian
+swedish-fi
+turkish
+vietnamese-daucu
+welsh
